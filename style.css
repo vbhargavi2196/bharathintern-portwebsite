@@ -57,7 +57,7 @@
       font-size:40px;
       border:double 5px blue;
       height:auto;
-      max-width:40%;
+      max-width:50%;
       text-align: center;
       border-radius: 5px;
       padding: 0%;
@@ -239,8 +239,7 @@
         font-size: 8px;
       }
       ul p{
-        font-size: 8px;
-  
+        display:none ;
     }
     li a{
       padding: 8px;
