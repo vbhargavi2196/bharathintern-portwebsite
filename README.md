@@ -1,4 +1,4 @@
-# bharathintern-portwebsite
+#portwebsite
 Deployment-link:https://vbhargavi2196.github.io/bharathintern-portwebsite/
 ### Project:-
 In this project I have tried to make a responsive portfolio website.
